@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'sample-repo-13.onrender.com',
+    'sample-repo-13-wipj.onrender.com',
     'localhost',
     '127.0.0.1',
 ]
